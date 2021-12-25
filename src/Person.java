@@ -1,5 +1,3 @@
-package com.group17;
-
 //defines all methods which every person (player and dealer) have in common
 public interface Person {
 

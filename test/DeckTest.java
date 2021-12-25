@@ -1,4 +1,3 @@
-package com.group17.Test;
 import com.group17.*;
 import org.junit.jupiter.api.Test;
 

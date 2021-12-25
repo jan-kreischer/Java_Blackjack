@@ -1,5 +1,3 @@
-package com.group17.Test;
-
 import com.group17.Card;
 import com.group17.Player;
 import org.junit.jupiter.api.Test;

@@ -1,5 +1,3 @@
-package com.group17;
-
 /*
 Returns a card from the deck (=source).
 @return The next available card.
